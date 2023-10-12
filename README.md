@@ -15,7 +15,7 @@ Neste experimento você irá fazer com que o LED incorporado e um LED pisque uti
 
 ## Esquema do projeto
 
-![Esquema do projeto](esquema_projeto.jpg)
+![Esquema do projeto](Arduino_Manipulando_um_LED.png)
 
 ## Projeto no Tinkercad
 
